@@ -63,7 +63,7 @@ home = [ "HTML", "RSS", "JSON" ]
 
   [[params.socialIcons]]
   name = "KoFi"
-  url = "https://ko-fi.com/"
+  url = "https://ko-fi.com/thesilentscreamer"
 
   [[params.socialIcons]]
   name = "RsS"
