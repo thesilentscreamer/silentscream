@@ -1,17 +1,37 @@
-baseURL = "https://thesilentscream.xyz"
+baseURL = "https://thesilentscream.xyz/"
 languageCode = "en-us"
-title = "My blog"
+title = "My Blog"
 theme = "PaperMod"
 paginate = 5
 
-enableInlineShortcodes = true
-enableRobotsTXT = true
-buildDrafts = false
-buildFuture = false
-buildExpired = false
+googleAnalytics = "UA-189313177-2"
 
-[minify]
-disableXML = true
+
+
+[params]
+env = "production"
+description = "This is a hugo website based on PaperMod theme "
+author = "Theme PaperMod"
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowToc = true
+comments = false
+Search = true
+
+
+[params.homeInfoParams]
+  Title = "നിശബ്ദമായ നിലവിളികൾ"
+  Content = """
+Everyday frustrations of a typical unmarried malayali guy! 
+"""
+
+[languages.en]
+languageName = "English"
+weight = 1
 
 [[languages.en.menu.main]]
 name = "Archive"
@@ -37,75 +57,14 @@ weight = 10
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
-[params]
-env = "production"
-description = "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-author = "Theme PaperMod"
-defaultTheme = "light"
-ShowShareButtons = true
-ShowReadingTime = true
-displayFullLangName = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowToc = true
-images = [ "papermod-cover.png" ]
-
-  [params.profileMode]
-  enabled = false
-  title = "PaperMod"
-  imageUrl = "#"
-  imageTitle = "my image"
-
-    [[params.profileMode.buttons]]
-    name = "Archives"
-    url = "archives"
-
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
-
-  [params.homeInfoParams]
-  Title = "The silent scream"
-  Content = """
-Unsensored everyday life of an average malayali guy!.
-"""
-
-  [[params.socialIcons]]
+[[params.socialIcons]]
   name = "github"
   url = "https://github.com/thesilentscreamer"
 
   [[params.socialIcons]]
   name = "KoFi"
-  url = "https://ko-fi.com/thesilentscreamer"
+  url = "https://ko-fi.com/"
 
   [[params.socialIcons]]
   name = "RsS"
   url = "index.xml"
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
-[privacy.vimeo]
-disabled = false
-simple = true
-
-[privacy.twitter]
-disabled = false
-enableDNT = true
-simple = true
-
-[privacy.instagram]
-disabled = false
-simple = true
-
-[privacy.youtube]
-disabled = false
-privacyEnhanced = true
-
-[services.instagram]
-disableInlineCSS = true
-
-[services.twitter]
-disableInlineCSS = true
