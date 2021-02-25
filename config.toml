@@ -21,6 +21,7 @@ ShowBreadCrumbs = true
 ShowToc = false
 comments = true
 Search = true
+enableRobotsTXT = true
 
 
 [params.homeInfoParams]
