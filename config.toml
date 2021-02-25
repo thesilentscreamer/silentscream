@@ -4,7 +4,7 @@ title = "My Blog"
 theme = "PaperMod"
 paginate = 5
 
-googleAnalytics = "UA-189313177-2"
+googleAnalytics = "UA-190578527-1"
 
 
 
@@ -26,7 +26,7 @@ Search = true
 [params.homeInfoParams]
   Title = "നിശബ്ദമായ നിലവിളികൾ"
   Content = """
-Everyday frustrations of a typical malayali guy! 
+mairu! janichu poyille thoughts on everyday life
 """
 
 [languages.en]
@@ -58,13 +58,17 @@ weight = 10
 home = [ "HTML", "RSS", "JSON" ]
 
 [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/sherukkaduva"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:thesilentscreamer91@gmail.com"
+
+[[params.socialIcons]]
   name = "github"
   url = "https://github.com/thesilentscreamer"
 
-  [[params.socialIcons]]
-  name = "KoFi"
-  url = "https://ko-fi.com/thesilentscreamer"
 
-  [[params.socialIcons]]
-  name = "RsS"
-  url = "index.xml"
+
+  
