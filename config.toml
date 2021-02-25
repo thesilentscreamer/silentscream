@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "My Blog"
 theme = "PaperMod"
 paginate = 5
-enableRobotsTXT = true
 
 googleAnalytics = "UA-190578527-1"
 
@@ -11,8 +10,8 @@ googleAnalytics = "UA-190578527-1"
 
 [params]
 env = "production"
-description = "This is a hugo website based on PaperMod theme"
-author = "Theme PaperMod"
+description = "This is my personal blog"
+author = "sherukkaduva"
 defaultTheme = "auto"
 ShowShareButtons = true
 ShowReadingTime = true
@@ -20,9 +19,7 @@ displayFullLangName = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowToc = false
-comments = true
-Search = true
-
+enableRobotsTXT = true
 
 
 [params.homeInfoParams]
