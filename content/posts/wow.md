@@ -1,7 +1,7 @@
 ---
 author: "sherukkaduva"
 title: "wow"
-date: "2019-03-09"
+date: "2021-02-25"
 description: "real life incident"
 categories: ["life"]
 tags: ["kerala", "malayali" ,"malayalam", "story", "my life", "malayalam story"]
