@@ -1,8 +1,8 @@
 ---
 author: "sherukkaduva"
-title: "room mate"
+title: "roommate"
 date: "2021-02-25"
-description: "real life incident"
+description: "random"
 categories: ["life"]
 tags: ["banglore", "malayali" ,"experience", "story", "funny", "random"]
 hideMeta: false
