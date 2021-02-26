@@ -3,7 +3,7 @@ author: "sherukkaduva"
 title: "hitch hickers guide to arranged marriage"
 date: "2021-02-265"
 description: "typical malayali arranged marriage "
-categories: ["f"]
+categories: ["funny"]
 tags: ["kerala", "malayali" ,"malayalam", "story", "marriage", "arranged"]
 hideMeta: false
 searchHidden: false
