@@ -1,8 +1,9 @@
-baseURL = "https://thesilentscream.xyz/"
+baseURL = "https://thesilentscream.xyz"
 languageCode = "en-us"
 title = "My Blog"
 theme = "PaperMod"
 paginate = 5
+
 
 googleAnalytics = "UA-190578527-1"
 
@@ -20,6 +21,7 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowToc = false
 enableRobotsTXT = true
+comments = true
 
 
 [params.homeInfoParams]
