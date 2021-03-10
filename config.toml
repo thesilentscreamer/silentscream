@@ -21,7 +21,7 @@ ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowToc = false
 enableRobotsTXT = true
-comments = true
+
 
 
 [params.homeInfoParams]
