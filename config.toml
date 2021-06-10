@@ -57,13 +57,6 @@ weight = 10
 home = [ "HTML", "RSS", "JSON" ]
 
 
-[[params.socialIcons]]
-  name = "email"
-  url = "mailto:thesilentscreamer91@gmail.com"
-
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/thesilentscreamer"
 
 
 
