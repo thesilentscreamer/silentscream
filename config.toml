@@ -1,6 +1,6 @@
 baseURL = "https://thesilentscream.xyz"
 languageCode = "en-us"
-title = "My Blog"
+title = "Blog"
 theme = "PaperMod"
 paginate = 5
 
